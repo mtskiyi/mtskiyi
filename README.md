@@ -12,7 +12,7 @@ Electronics student based in Poland, focused on low-level system optimization, k
 
 ## Current focus
 
-Building clean Linux setups, automation tools, and learning better software development practices.
+Learning Python, Git, and better software development practices.
 
 ## Contact
 - Telegram: [@mtskiyi](https://t.me/mtskiyi)

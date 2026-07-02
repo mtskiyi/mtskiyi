@@ -15,5 +15,4 @@ Electronics student based in Poland, focused on low-level system optimization, k
 Building clean Linux setups, automation tools, and learning better software development practices.
 
 ## Contact
-
-- GitHub: [@mtskiyi](https://github.com/mtskiyi)
+- Telegram: [@mtskiyi](https://t.me/mtskiyi)

@@ -6,7 +6,6 @@ Electronics student based in Poland, focused on low-level system optimization, k
 - Linux / Arch / Hyprland
 - Python automation
 - Bash / system scripts
-- GitHub dotfiles
 - System performance tuning
 
 ## Current focus

@@ -1,5 +1,5 @@
 # ⚙️ mtskiyi
-
+![Banner](banner.png)
 Electronics student based in Poland, focused on low-level system optimization, kernel building, and minimalist development interfaces.
 
 ## What I work with
